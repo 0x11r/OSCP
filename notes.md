@@ -101,3 +101,27 @@ sqli , nosqli etc
 
 <?php system($_GET[“cmd”]);?>
 ```
+
+
+----
+---
+#### Modules
+
+- [ ] DACL 1 - Skill Assessment
+- [ ] BloodHound - Custom Queries
+- [ ] Footprinting Skill assessment
+- [ ] Wordpress
+- [ ] Attacking Enterprise Network
+- [ ] File Upload Attacks
+- [ ] LFI/RFI
+	- [ ] dont forget to add windows notes
+- [ ] .htaccess
+- [ ] XSS
+#### Machines To Solve
+
+- [ ] Attacking Enterprise Network
+#### Ideas
+
+- [ ] automate web enumeration ? 
+- [ ] edit my notes
+
