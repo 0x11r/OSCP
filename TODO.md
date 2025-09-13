@@ -124,4 +124,5 @@ sqli , nosqli etc
 
 - [ ] automate web enumeration ? 
 - [ ] edit my notes
-
+```
+edit web notes
