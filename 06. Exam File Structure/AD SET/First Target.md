@@ -22,13 +22,13 @@ Target IP -
 ---
 # Notes For Services & Random Info
 
-> Port <$$> Enumeration Findings
+> Port x Enumeration Findings
 
 ```c
 
 ```
 
-> Port <$$> Findings 
+> Port x Findings 
 
 ```c
 
