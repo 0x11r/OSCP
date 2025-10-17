@@ -41,7 +41,10 @@ Target IP -
 ```
 ---
 ---
+# Post Exploitation Notes
+```c
 
+```
 
 
 
