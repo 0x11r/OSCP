@@ -18,3 +18,5 @@ Wp Scan
 Fixing Exploits
 
 after getting initial access on a target , if it's a cms search for configuration files , defualt places
+
+Get-DomainObjectAcl -Identity harry.jones -Domain inlanefreight.local -ResolveGUIDs | Select-String "GenericAll|GenericWrite|WriteDacl|WriteOwner"
